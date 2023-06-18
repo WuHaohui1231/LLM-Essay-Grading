@@ -14,7 +14,6 @@
 | **Total**                     | **20**     |
 
 
-## Week 1 (4 Jun - 11 Jun)
 ### Jiacong Wu
 | Task                          | Time (hrs) |
 |-------------------------------|------------|
@@ -27,8 +26,6 @@
 | **Total**                     | **20**     |
 
 
-
-## Week 1 (4 Jun - 11 Jun)
 ### Xin Tan
 
 | Task                          | Time (hrs) |
@@ -43,8 +40,6 @@
 | **Total**                     | **21**     |
 
 
-
-## Week 1 (4 Jun - 11 Jun)
 ### Hanyi Yu
 
 | Task                          | Time (hrs) |
