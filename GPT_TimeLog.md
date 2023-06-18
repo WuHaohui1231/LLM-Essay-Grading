@@ -71,3 +71,17 @@
 | Create ppt for presentation   | 3          |
 | Prepare for presentation      | 2          |
 | **Total**                     | **20**     |
+
+
+
+## Week 2 (12 Jun - 18 Jun)
+### Hanyi Yu
+| Task                          | Time (hrs) |
+|-------------------------------|------------|
+| Meeting with Jim              | 2          |
+| Group Meeting                 | 3          |
+| Self learning Transformer     | 9          |
+| Learn fine tuning             | 2          |
+| Create ppt for presentation   | 1          |
+| Prepare for presentation      | 3          |
+| **Total**                     | **20**     |
