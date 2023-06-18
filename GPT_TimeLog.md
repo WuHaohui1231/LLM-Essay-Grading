@@ -1,4 +1,5 @@
 # Group Time Log
+
 ## Week 1 (4 Jun - 11 Jun)
 ### Haohui Wu
 
@@ -55,4 +56,18 @@
 | Learn gitlab commands         | 1          |
 | Researches on terms           | 4          |
 | presentation preparation      | 3          |
+| **Total**                     | **20**     |
+
+
+
+## Week 2 (12 Jun - 18 Jun)
+### Jiacong Wu
+| Task                          | Time (hrs) |
+|-------------------------------|------------|
+| Meeting with Jim              | 2          |
+| Group Meeting                 | 3          |
+| Self learning Transformer     | 8          |
+| Learn fine tuning             | 2          |
+| Create ppt for presentation   | 3          |
+| Prepare for presentation      | 2          |
 | **Total**                     | **20**     |
