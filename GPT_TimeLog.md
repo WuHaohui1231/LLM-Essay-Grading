@@ -55,6 +55,7 @@
 
 
 
+
 ## Week 2 (12 Jun - 18 Jun)
 ### Jiacong Wu
 | Task                          | Time (hrs) |
@@ -87,4 +88,16 @@
 | Learn fine tuning             | 2          |
 | Create ppt for presentation   | 2          |
 | Prepare for presentation      | 2          |
+| **Total**                     | **20**     |
+
+### Xin Tan
+
+| Task                          | Time (hrs) |
+|-------------------------------|------------|
+| Mass meeting with Jim         | 2          |
+| Group Meeting * 2             | 3          |
+| Google course + transformers  | 12         |
+| Brainstorming                 | 1          |
+| Learning GPT walkthrough      | 1          |
+| presentation preparation      | 1          |
 | **Total**                     | **20**     |
