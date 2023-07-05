@@ -1,4 +1,5 @@
 # Group Time Log
+
 ## Week 1 (4 Jun - 11 Jun)
 ### Haohui Wu
 
@@ -13,7 +14,6 @@
 | **Total**                     | **20**     |
 
 
-## Week 1 (4 Jun - 11 Jun)
 ### Jiacong Wu
 | Task                          | Time (hrs) |
 |-------------------------------|------------|
@@ -26,8 +26,6 @@
 | **Total**                     | **20**     |
 
 
-
-## Week 1 (4 Jun - 11 Jun)
 ### Xin Tan
 
 | Task                          | Time (hrs) |
@@ -42,8 +40,6 @@
 | **Total**                     | **21**     |
 
 
-
-## Week 1 (4 Jun - 11 Jun)
 ### Hanyi Yu
 
 | Task                          | Time (hrs) |
@@ -60,7 +56,40 @@
 
 
 
-## Week 2 (12 Jun - 19 Jun)
+## Week 2 (12 Jun - 18 Jun)
+### Jiacong Wu
+| Task                          | Time (hrs) |
+|-------------------------------|------------|
+| Meeting with Jim              | 2          |
+| Group Meeting                 | 3          |
+| Self learning Transformer     | 8          |
+| Learn fine tuning             | 2          |
+| Create ppt for presentation   | 3          |
+| Prepare for presentation      | 2          |
+| **Total**                     | **20**     |
+
+### Hanyi Yu
+| Task                          | Time (hrs) |
+|-------------------------------|------------|
+| Meeting with Jim              | 2          |
+| Group Meeting                 | 3          |
+| Self learning Transformer     | 9          |
+| Learn fine tuning             | 2          |
+| Create ppt for presentation   | 1          |
+| Prepare for presentation      | 3          |
+| **Total**                     | **20**     |
+
+### Haohui Wu
+| Task                          | Time (hrs) |
+|-------------------------------|------------|
+| Meeting with Jim              | 2          |
+| Group Meeting                 | 3          |
+| Self learning Transformer     | 9          |
+| Learn fine tuning             | 2          |
+| Create ppt for presentation   | 2          |
+| Prepare for presentation      | 2          |
+| **Total**                     | **20**     |
+
 ### Xin Tan
 
 | Task                          | Time (hrs) |
