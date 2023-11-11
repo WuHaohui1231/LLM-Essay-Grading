@@ -1,0 +1,50 @@
+You will grade a student's writing that completes a provided partial story. The student is expected to complete the story and follow the leading sentences in the paragraphs. Grade the writing in the following categories on a 0-10 scale and provide an explanation for each score.
+```
+1. Content. The student's writing should complete the story. It must follow the given content closely and logically. The writing should have details and be engaging.
+2. Grammar and vocabulary. Grade the writing on a curve as the student is an English language learner.
+3. Structure and organization. The student's writing should have good use of transitional elements and connectors.
+```
+Use JSON format for the scores with the following keys:
+category, score, explanation
+
+In addition to the scores, flag the following categories of problems in the student's writing. Provide a yes or no answer along with explanations.
+```
+1. Out of place. The writing contains sentences that don't fit the story and may be copied from unrelated sources.
+2. Copy paste. The writing contains sentences that are copied from the provided text. An exception to the rule is the leading sentences.
+3. Incomplete. The writing is incomplete.
+```
+Use JSON format for the problems with the following keys:
+category, yesNo, explanation
+
+*Partial Story*
+```
+I was a vet in Yorkshire. One day I received a call from Mrs Tompkin asking me to cut the beak (喙) of her budgie's (虎皮鹦鹉). l armed myself with a pair of clippers and stepped onto the narrow strip of pavement which separated the door from the road. A pleasant-looking red-haired woman answered my knock.
+“I'm Mrs Dodds from next door,” she said. “I keep an eye on the old lady. She's over eighty and lives alone.”
+She led me into the cramped little room. “Here's Mr Herriot coming to see Peter for you,” she said to the old woman who sat in a corner. Mrs Tompkin nodded and smiled, “Oh that's good. Poor little fella can hardly eat with its long beak and I'm worried about him. He's my only companion, you know.”
+“Yes, I understand, Mrs Tompkin.” I looked at the cage by the window with the green budgie perched(栖息)inside. “These little birds can be wonderful company when they start chattering.” She laughed. “Yes, but it's a funny thing. Peter never has said that much. I think he's lazy! But I just like having him with me.”
+“Of course you do,” I said, “but he certainly needs attention now.”
+The beak was greatly overgrown, curving away down till it touched the feathers of the breast. I would be able to revolutionize his life with one quick snip from my clippers. The way I was feeling this job was right up my street.
+I opened the cage door and slowly inserted my hand.
+“Come on, Peter,” I wheedled(哄骗).As I lifted him out, I felt in my pocket with the other hand for the clippers. Then I stopped.
+The tiny head was no longer poking cheekily from my fingers but had fallen loosely to one side. The eyes were closed. He was dead.
+Mrs Dodds and I looked at each other in horror. When I turned my head towards Mrs Tompkin, I was surprised to see that she was still nodding and smiling.
+I drew her neighbor to one side. “Mrs Dodds, how much does she see?”
+“Oh, she's very short-sighted but she's right vain despite her age. Never would she wear glasses. She's hard of hearing，too.”
+“Well, look,” I said. My heart was still pounding. “I just don't know what to do. If I tell her about this, the shock will be terrible. Anything could happen.”
+Mrs Dodds nodded, stricken-faced. “Yes, you're right. She's that attached to the little thing.”
+注意：
+1. 续写词数应为150左右;
+2. 请按如下格式在答题卡的相应位置作答。
+I decided to do something for her instead of telling her the truth.________________________
+_________________________________________________________________________
+________________________________________________________________________
+It was a long time before I went to see how Mrs Tompkin got along with the bird I bought for her. _________________________________________________________________________
+__________________________________________________________________________
+```
+
+*Student's Writing*
+```
+I decided to do something for her instead of telling her the truth. I decided to wash dishes to relieve stress on housework. I walked into kicthen and did something   I could do. Mrs. Dodds smiled to me and expressed her great. I know that I still need to do something to make up for mistake. I went to bird shop to buy a new budgies and took it to Mrs. Dolds home. or Don't tell her truth.   I left with these words. I wished that Mrs. Tompkin could keep happy.
+
+It was a long time before I went to see how Mrs Tompkin got along with the bird I bought for her. Fortunately, Mrs. Tompkin haven't figured out that the bird wasn't hers. She accompanied the bird happily and also called it as   Peter  . I felt sorry about her, but that was all I can do for her. It was a tragding that lonely old woman lost her only companion. I asked Mrs. Tompkin about how she felt recently, she added and smiled as well. I decided to recognize the occurrence of a previous environmental condition and to react accordingly.   I knowed that the bird is not Peter. But my   I still thank for you.   Mrs. Tomplin says. These words shocked me
+```
